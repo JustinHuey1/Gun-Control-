@@ -1,0 +1,25 @@
+body
+{
+  text-align: center;
+  background-color: lightgreen;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h1 
+{
+  font-size: 100px;
+}
+p
+{
+  font-size: 25px;
+  align: center;
+  width: 500px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+button
+{
+  padding: 20px;
+  font-size: 25px;
+  border-radius: 10px;
+}
